@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+</head>
+<body>
+       
+ <script type="text/javascript">
+
+    $(document).ready(function() {
+        	
+	          $("#consultar").click(function(){
+			   
+			   var busca_usr = $.trim($("#busca_usr").val());
+			   var url = "http://localhost/2021/hpt/consulta_usr.php?busca_usr="+busca_usr;
+
+			        $.ajax({
+                    type: "POST",crossDomain: true, cache: false,
+                    url: url,
+                    data: url,
+                    success: function(data){
+            
+		  console.log(data);
+		
+        $.getJSON(url, function(result) {       
+			   
+            $.each(result, function(i, field) {
+			                              
+                    var id = field.id;
+                
+                    var nome = field.nome_usr;
+                    var email = field.email_usr;
+                    var pass = field.pass_usr;
+                    var cpf = field.cpf_usr;
+                    var dtnasc = field.dtnasc_usr;
+                    
+                    
+                    
+                    document.user.id.value = id;
+                    document.user.nome.value = nome;
+                    document.user.email.value = email;
+                    document.user.pass.value = pass;
+                    document.user.cpf.value = cpf;
+                    document.user.dtnasc.value = dtnasc;
+                 
+		                     			
+							   });
+			
+                        
+         		});
+						
+                    }
+                });
+				});
+				});
+                </script>
+</body>
+
+</html>
