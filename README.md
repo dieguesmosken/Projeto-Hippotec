@@ -4,8 +4,8 @@ TCC do Curso de Desenvolvimento de Sistema da sala descentralizada da Etec de Re
 
 # mebros
 
--Bruno Taiki Sadano Chiga
--Matheus mosken diegues
--Geoger antoni
+-Bruno Taiki Sadano Chiga <br>
+-Matheus mosken diegues <br>
+-George Antony dos Santos  
 
 
