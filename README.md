@@ -13,5 +13,5 @@
 
 ### [link projeto](https://hipp0tec.000webhostapp.com/)
 
-![imagem index](https://github.com/dieguesmosken/hippotec-1/blob/main/assets/Img/index.png?raw=true)
+![imagem index](https://github.com/dieguesmosken/hippotec-1/blob/main/assets/img/index.png?raw=true)
 
