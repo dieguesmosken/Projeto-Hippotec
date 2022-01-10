@@ -2,7 +2,7 @@
  
 > TCC do Curso de Desenvolvimento de Sistemas da sala descentralizada da Etec de Registro
 
-## [Documentação em pdf](https://github.com/dieguesmosken/dieguesmosken.github.io/blob/main/assets/DOC_TCC_Hippotec.pdf?raw=true)
+## [Documentação em pdf](https://github.com/dieguesmosken/hippotec-1/blob/main/assets/DOC_TCC_Hippotec.pdf?raw=true)
 
 
 ### construido por:
@@ -13,5 +13,5 @@
 
 ### [link projeto](https://hipp0tec.000webhostapp.com/)
 
-![imagem index](https://github.com/dieguesmosken/dieguesmosken.github.io/blob/main/assets/Img/index.png?raw=true)
+![imagem index](https://github.com/dieguesmosken/hippotec-1/blob/main/assets/Img/index.png?raw=true)
 
