@@ -1,11 +1,11 @@
 # hippotec
  
-TCC do Curso de Desenvolvimento de Sistema da sala descentralizada da Etec de Registro
+> TCC do Curso de Desenvolvimento de Sistemas da sala descentralizada da Etec de Registro
 
-## mebros
+## membros
 
--Bruno Taiki Sadano Chiga <br>
--Matheus mosken diegues <br>
--George Antony dos Santos  
+* Bruno Taiki Sadano Chiga <br>
+* Matheus mosken diegues <br>
+* George Antony dos Santos  
 
 
