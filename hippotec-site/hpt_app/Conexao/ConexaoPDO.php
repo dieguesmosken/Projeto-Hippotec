@@ -6,8 +6,6 @@
 
         private static $pdo;
 
-        private function _construct(){}
-
         public static function getInstance(){
             if(!isset(self::$pdo)){
                 try{
